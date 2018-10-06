@@ -1,0 +1,179 @@
+body{
+margin: 0;
+padding: 0;
+width: 100%;
+}
+h1 {
+font-family:"Oswald";
+font-weight:normal;
+font-size: 55px;
+text-align: center;
+color: #fff;
+margin: 0;
+padding: 0;
+}
+h2 {
+font-family:"Bodoni";
+font-weight: normal;
+font-size: 40px;
+text-align: center;
+color: black;
+margin: 0;
+padding: 0;
+}
+h3 {
+font-family: "Oswald";
+font-weight: normal;
+font-size: 16px;
+text-align: center;
+margin: 5px 0;
+padding: 0;
+z-index: 1;
+position: relative;
+}
+
+h5 {
+font-family:"Bodoni";
+font-weight: normal;
+font-size: 50px;
+text-align: center;
+color: white;
+margin: 0;
+padding: 100;
+}
+
+#divider h1:Hover {
+	background-color: black;
+	}
+.center { margin: 0 auto; }
+.content{ margin: 0 auto; width: 960px; }
+.content2{ margin-left: 200; width: 960px; }
+.clear { clear: both; }
+
+#header {
+width: 100%;
+background: url('../img/header-bg.png');
+height: 70px;
+position: fixed;
+margin-top: 5px;
+}
+#nav { width: 100%; float: center; margin-top: 7px; }
+#nav ul{
+list-style: none;
+display: block;
+margin: 10 auto;
+list-style: none;
+}
+#nav li{
+margin-top: 0px;
+margin-left: 0px;
+float: left;
+padding-left: 30px;
+}
+#nav li a { color: #fff; opacity:0.6; font-size: 28px; text-decoration: none; font-family: 'Vollkorn'; }
+#nav li a.active { color: #fff; opacity:1; border-bottom: 2px solid #fff; }
+#nav li a:hover { color: #fff; opacity:1; }
+
+.quotes {
+font-family: 'Goudy Bookletter 1911', serif;
+font-weight: normal;
+font-size: 30px;
+text-align: left;
+margin: 50px auto;
+}
+
+ .gray { font-family:"Raleway"; margin: 70px 0 0 75px; color: #94a4a4; font-size: 20px; } 
+ .quotes_container { width: 800px; margin: 0 auto; }
+	background-color: black;
+	}
+#arrow {top: 100px; position: relative}
+
+#slide1, #slide2{ width: 100%; }
+img.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+	}
+	
+	.marginauto {
+    margin: 0px auto 20px;
+    display: block;
+}
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
+  
+td {
+	padding: 14px;
+	font-family: "Bodoni", serif;
+	font-size: 20pt;
+}
+	
+#schedule{
+	top: 165px;
+	left: 100px;
+}
+
+#headerr{
+	background-color: black;
+	color:white
+}
+
+#odd{
+	background-color:#121D33;
+	color: white;
+}
+
+#even{
+	background-color:#1B232F;
+	color: white;
+}
+
+#slide1{
+background:url('../img/avengers.jpg') 50% 0 no-repeat fixed;
+color: #fff;
+height: 350px;
+margin: 0;
+padding: 200px 0 260px 0;
+background-size: cover;
+}
+#slide2{
+background-color: #fff;
+color: #333333;
+height: 500px;
+margin: 0 auto;
+overflow: hidden;
+padding: 150px 0;
+}
+#slide2 a{
+text-decoration: none;
+color: #0E4848;
+}
+	
+#slide3{
+background: url(../img/avengers4.jpg) 50% 0 no-repeat fixed;
+color: #fff;
+height: 850px;
+padding: 80px 0 0 0;
+background-size: cover;
+}
+#slide4{
+background-color: #F6F9F9;
+color: #333333;
+height: 725px;
+padding: 40px;
+}
+
+#char{
+margin-left: 100px;
+}
+
+#slide5{
+background: url(../img/avengers3.jpg) 50% 0 no-repeat fixed;
+height: 700px;
+margin: 0 auto;
+padding: 100px 0;
+color: #fff;
+background-size: cover;
+}

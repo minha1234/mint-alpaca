@@ -1,0 +1,27 @@
+body {
+margin-left: 0px;
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+background: url("avengers.jpg"); top center;
+background-size: cover;
+background-attachment: fixed;
+}
+
+
+#logo{
+	top: 10px;
+	left: 0px;
+	position: auto;
+	}
+
+img.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+	}
+	
+	.marginauto {
+    margin: 500px auto 20px;
+    display: block;
+}
